@@ -206,7 +206,7 @@ export default function App() {
         <ChartCard
           className="wide"
           title="When leads come in"
-          subtitle="Weekday × hour of day, local time — staff the phone for the dark cells"
+          subtitle="Weekday × hour of day, local time. Staff the phone for the dark cells."
           table={{
             columns: ['Weekday', 'Busiest hour', 'Leads then', 'Leads that day'],
             numeric: [false, false, true, true],
@@ -225,7 +225,7 @@ export default function App() {
       <footer className="foot">
         <span>
           React + TypeScript + D3 scales, no chart library. 190 days of leads are generated with a seeded PRNG
-          (<code>src/data/generate.ts</code>) — swap it for your API.
+          (<code>src/data/generate.ts</code>). Swap it for your API.
         </span>
         <a href="https://github.com/nondeadted-kwork/leadboard">Source on GitHub</a>
       </footer>
