@@ -2,7 +2,7 @@
 
 **EN** · [RU ниже](#ru)
 
-> Live demo: **https://leadboard.vercel.app** (replace with your URL) · 40-second video: [link]
+> Live demo: **[leadboard-ops.vercel.app](https://leadboard-ops.vercel.app)** · 40-second video: [link]
 
 ![Leadboard](docs/dashboard.png)
 
@@ -70,8 +70,8 @@ on its own, so there is nothing to configure. Or from the terminal: `npx vercel 
 <a name="ru"></a>
 ## RU
 
-**Дашборд входящих заявок для малого бизнеса.** Англоязычная витрина. Живая ссылка на Vercel,
-данные демо-генератора.
+**Дашборд входящих заявок для малого бизнеса.** Англоязычная витрина.
+Живая ссылка: [leadboard-ops.vercel.app](https://leadboard-ops.vercel.app), данные демо-генератора.
 
 - **Задача:** владелец не видит, сколько приходит заявок, как быстро отвечают менеджеры, где заявки теряются
   и что дала автоматизация.
