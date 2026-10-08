@@ -2,7 +2,7 @@
 
 **EN** · [RU ниже](#ru)
 
-> Live demo: **[leadboard-ops.vercel.app](https://leadboard-ops.vercel.app)** · 40-second video: [link]
+> Live demo: **[leadboard-ops.vercel.app](https://leadboard-ops.vercel.app)**
 
 ![Leadboard](docs/dashboard.png)
 
